@@ -34,16 +34,14 @@ var _verticaldivider = const VerticalDivider(
 );
 // '8951815109'
 var receiptsLogin = [
-  '8792417622',
-  '9663684195',
+  '*******',
+  '******',
 ];
-// var apiBaseUrl = 'https://69.172.233.38:5050/';
 
-// var apiBaseUrl = 'https://91.108.105.31:5000/';
 
 var apiBaseUrl = 'https://saangathya.in/';
 
-// var apiBaseUrl = 'https://91.108.105.31/';
+
 
 var verticaldivider1 = const VerticalDivider(
   indent: 10.0,
