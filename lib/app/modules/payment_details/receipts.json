@@ -1,0 +1,20 @@
+{
+    "TRANSACTIONID" : 1,
+    "MEMBERSHIPID" : 1, 
+    "TRANSACTION_TYPE" : "String",
+    "TRANSACTION_DATE" : "DateTime",
+    "AMOUNT" : 10.0,
+    "DESCRIPTION" : "String",
+    "STATUS" : "String",
+    "REFERENCE_NUMBER" : "String",
+    "PAYMENT_MODE" : "String",
+    "PAYMENT_TYPE" : "String",
+    "PROJECT_CODE" : 1,
+    "UPDATED_BY" : 1,
+    "FROM_ACCOUNT" : "String",
+   "SENIORITY" : 1,
+     "INSTALLMENT_NO" : 1,
+    "TO_ACCOUNT" : "String"
+  }
+
+  
